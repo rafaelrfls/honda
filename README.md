@@ -3,7 +3,7 @@ Reprodução do site do Honda New City Hatchback
 
 ## 🚀 Demonstração
 
-![image](assets)
+![image](assets\img\readme-images)
 [Clique aqui](https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
