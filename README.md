@@ -1,9 +1,9 @@
 # Honda New City Hatchback
-Reprodução do site do Honda New City Hatchback
+Reprodução do site do Honda New City Hatchback, utilizando apenas HTML, CSS e Flexbox.
 
 ## 🚀 Demonstração
 
-![image](assets\img\readme-images)
+![image](assets/img/readme-images/pagina.png)
 [Clique aqui](https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
